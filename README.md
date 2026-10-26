@@ -7,7 +7,7 @@
 **Curated Hub for Source-to-Pay (S2P) Automation, Strategic Sourcing, Intake Orchestration & Sovereign Procurement Engines**
 
 [![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)<a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Sourcing-Procurement-Operations?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Sourcing-Procurement-Operations/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Sourcing-Procurement-Operations?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Sourcing-Procurement-Operations/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Sourcing-Procurement-Operations?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Sourcing-Procurement-Operations/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Sourcing-Procurement-Operations/blob/main/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Sourcing-Procurement-Operations/pulls)
@@ -63,57 +63,57 @@ The table below catalogs top enterprise platforms ranked by **Company Scale (Mar
 
 Open-source and self-hosted procurement engines are crucial for organizations seeking data sovereignty, customized approval workflows, and freedom from per-transaction licensing models. 
 
-The list below is strictly ranked by **GitHub Star Count** in descending order, with each social star badge linking directly to the repository's stargazers page.
+The list below is strictly ranked by **GitHub Stars_Count** in descending order, with each social Stars_Badge linking directly to the repository's stargazers page.
 
-1. **[ERPNext (Frappe)](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
+1. **[ERPNext (Frappe)](https://github.com/frappe/erpnext)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
    *Free and open-source enterprise resource planning system with comprehensive Buying and Sourcing modules.* Supports Material Requests, Supplier RFQs, Supplier Quotation comparison matrices, Purchase Orders, Automated Reorder Levels, 3-Way Invoice Matching, and an independent Supplier Portal. GPL-3.0 licensed.
 
-2. **[ArcKit](https://github.com/tractorjuice/arc-kit)** [![GitHub stars](https://img.shields.io/github/stars/tractorjuice/arc-kit?style=social&color=white)](https://github.com/tractorjuice/arc-kit/stargazers)  
+2. **[ArcKit](https://github.com/tractorjuice/arc-kit)** [![GitHub_Stars](https://img.shields.io/github/stars/tractorjuice/arc-kit?style=social&color=white)](https://github.com/tractorjuice/arc-kit/stargazers)  
    *Enterprise Architecture Governance Harness utilizing AI coding assistants for procurement assurance.* Enables organizations to conduct automated architectural evaluations, vendor RFP technical compliance checks, and delivery assurance against corporate IT standards. MIT licensed.
 
-3. **[BidMaster-Pro](https://github.com/guangshu100/BidMaster-Pro)** [![GitHub stars](https://img.shields.io/github/stars/guangshu100/BidMaster-Pro?style=social&color=white)](https://github.com/guangshu100/BidMaster-Pro/stargazers)  
+3. **[BidMaster-Pro](https://github.com/guangshu100/BidMaster-Pro)** [![GitHub_Stars](https://img.shields.io/github/stars/guangshu100/BidMaster-Pro?style=social&color=white)](https://github.com/guangshu100/BidMaster-Pro/stargazers)  
    *Full-lifecycle intelligent bidding and tendering AI agent.* Automates tender document parsing, tender interpretation, proposal generation, 21 automated compliance checks, OCR extraction, and multi-model RAG knowledge base integration for RFP responses. Apache-2.0 licensed.
 
-4. **[phase4](https://github.com/phax/phase4)** [![GitHub stars](https://img.shields.io/github/stars/phax/phase4?style=social&color=white)](https://github.com/phax/phase4/stargazers)  
+4. **[phase4](https://github.com/phax/phase4)** [![GitHub_Stars](https://img.shields.io/github/stars/phax/phase4?style=social&color=white)](https://github.com/phax/phase4/stargazers)  
    *Production-grade AS4 client and server integration engine with native Peppol & CEF eDelivery support.* Essential open-source backbone for cross-border European e-procurement, electronic order exchanges, and compliant e-invoicing pipelines. Apache-2.0 licensed.
 
-5. **[ph-ubl](https://github.com/phax/ph-ubl)** [![GitHub stars](https://img.shields.io/github/stars/phax/ph-ubl?style=social&color=white)](https://github.com/phax/ph-ubl/stargazers)  
+5. **[ph-ubl](https://github.com/phax/ph-ubl)** [![GitHub_Stars](https://img.shields.io/github/stars/phax/ph-ubl?style=social&color=white)](https://github.com/phax/ph-ubl/stargazers)  
    *High-performance Java library for reading, validating, and writing Universal Business Language (UBL 2.0–2.5) documents.* Powers machine-readable purchasing, electronic tenders, purchase orders, despatches, and invoice exchanges globally. Apache-2.0 licensed.
 
-6. **[OpenProcurement (Prozorro)](https://github.com/openprocurement/openprocurement.api)** [![GitHub stars](https://img.shields.io/github/stars/openprocurement/openprocurement.api?style=social&color=white)](https://github.com/openprocurement/openprocurement.api/stargazers)  
+6. **[OpenProcurement (Prozorro)](https://github.com/openprocurement/openprocurement.api)** [![GitHub_Stars](https://img.shields.io/github/stars/openprocurement/openprocurement.api?style=social&color=white)](https://github.com/openprocurement/openprocurement.api/stargazers)  
    *Core API and database interface powering Ukraine's national Prozorro e-procurement infrastructure.* Implements the Open Contracting Data Standard (OCDS), competitive reverse e-auctions, transparent public tenders, and multi-platform commercial broker integrations. Apache-2.0 licensed.
 
-7. **[eForms-SDK](https://github.com/OP-TED/eForms-SDK)** [![GitHub stars](https://img.shields.io/github/stars/OP-TED/eForms-SDK?style=social&color=white)](https://github.com/OP-TED/eForms-SDK/stargazers)  
+7. **[eForms-SDK](https://github.com/OP-TED/eForms-SDK)** [![GitHub_Stars](https://img.shields.io/github/stars/OP-TED/eForms-SDK?style=social&color=white)](https://github.com/OP-TED/eForms-SDK/stargazers)  
    *European Commission Publications Office SDK providing schemas, validation rules, and templates for EU public procurement notices.* Standardizes digital tender advertisements, contract award notices, and public buyer workflows across the European Union. EUPL-1.2 licensed.
 
-8. **[ePO (eProcurement Ontology)](https://github.com/OP-TED/ePO)** [![GitHub stars](https://img.shields.io/github/stars/OP-TED/ePO?style=social&color=white)](https://github.com/OP-TED/ePO/stargazers)  
+8. **[ePO (eProcurement Ontology)](https://github.com/OP-TED/ePO)** [![GitHub_Stars](https://img.shields.io/github/stars/OP-TED/ePO?style=social&color=white)](https://github.com/OP-TED/ePO/stargazers)  
    *Formal semantic OWL ontology and linked-data foundation for public procurement.* Provides machine-readable definitions and relationships across the entire source-to-pay lifecycle, connecting tender requirements, buyers, bidders, and contracts. CC0-1.0 licensed.
 
-9. **[buyer-eval-skill](https://github.com/salespeak-ai/buyer-eval-skill)** [![GitHub stars](https://img.shields.io/github/stars/salespeak-ai/buyer-eval-skill?style=social&color=white)](https://github.com/salespeak-ai/buyer-eval-skill/stargazers)  
+9. **[buyer-eval-skill](https://github.com/salespeak-ai/buyer-eval-skill)** [![GitHub_Stars](https://img.shields.io/github/stars/salespeak-ai/buyer-eval-skill?style=social&color=white)](https://github.com/salespeak-ai/buyer-eval-skill/stargazers)  
    *Autonomous B2B software vendor evaluation skill for Claude Code.* Automates technical RFP questionnaires, orchestrates conversational interviews between AI buyer and vendor agents, and produces auditable, evidence-based scoring matrices. MIT licensed.
 
-10. **[procurement-ai-assistant](https://github.com/AmirLayegh/procurement-ai-assistant)** [![GitHub stars](https://img.shields.io/github/stars/AmirLayegh/procurement-ai-assistant?style=social&color=white)](https://github.com/AmirLayegh/procurement-ai-assistant/stargazers)  
+10. **[procurement-ai-assistant](https://github.com/AmirLayegh/procurement-ai-assistant)** [![GitHub_Stars](https://img.shields.io/github/stars/AmirLayegh/procurement-ai-assistant?style=social&color=white)](https://github.com/AmirLayegh/procurement-ai-assistant/stargazers)  
     *AI-powered procurement copilot utilizing vector embeddings and semantic search (Google Cloud Sweden Hackathon Winner).* Enables retail buyers to match unstructured natural-language purchase requisitions against catalog inventory and past sourcing agreements. MIT licensed.
 
-11. **[federal-contracting-mcps](https://github.com/1102tools-dev/federal-contracting-mcps)** [![GitHub stars](https://img.shields.io/github/stars/1102tools-dev/federal-contracting-mcps?style=social&color=white)](https://github.com/1102tools-dev/federal-contracting-mcps/stargazers)  
+11. **[federal-contracting-mcps](https://github.com/1102tools-dev/federal-contracting-mcps)** [![GitHub_Stars](https://img.shields.io/github/stars/1102tools-dev/federal-contracting-mcps?style=social&color=white)](https://github.com/1102tools-dev/federal-contracting-mcps/stargazers)  
     *Collection of free Model Context Protocol (MCP) servers connecting LLMs to US federal procurement systems.* Provides direct agent access to SAM.gov opportunities, USAspending data, GSA CALC+ labor rate benchmarks, and Federal Acquisition Regulation (FAR) clauses. MIT licensed.
 
-12. **[e-procure](https://github.com/Gichure/e-procure)** [![GitHub stars](https://img.shields.io/github/stars/Gichure/e-procure?style=social&color=white)](https://github.com/Gichure/e-procure/stargazers)  
+12. **[e-procure](https://github.com/Gichure/e-procure)** [![GitHub_Stars](https://img.shields.io/github/stars/Gichure/e-procure?style=social&color=white)](https://github.com/Gichure/e-procure/stargazers)  
     *Spring Boot microservices-based enterprise e-procurement suite.* Features dedicated modules for purchase requisitions, approval chains, purchase order issuance, vendor management, bid management, and invoice processing orchestrated via Camunda BPMN workflows and Apache Kafka. MIT licensed.
 
-13. **[procurement-management](https://github.com/samirsaci/procurement-management)** [![GitHub stars](https://img.shields.io/github/stars/samirsaci/procurement-management?style=social&color=white)](https://github.com/samirsaci/procurement-management/stargazers)  
+13. **[procurement-management](https://github.com/samirsaci/procurement-management)** [![GitHub_Stars](https://img.shields.io/github/stars/samirsaci/procurement-management?style=social&color=white)](https://github.com/samirsaci/procurement-management/stargazers)  
     *Python procurement process optimization and spend data science library.* Contains analytical models for spend cube construction, Economic Order Quantity (EOQ) simulations, supplier lead-time variance analysis, and purchase order cycle time reduction. MIT licensed.
 
-14. **[mcp-procurement](https://github.com/zavora-ai/mcp-procurement)** [![GitHub stars](https://img.shields.io/github/stars/zavora-ai/mcp-procurement?style=social&color=white)](https://github.com/zavora-ai/mcp-procurement/stargazers)  
+14. **[mcp-procurement](https://github.com/zavora-ai/mcp-procurement)** [![GitHub_Stars](https://img.shields.io/github/stars/zavora-ai/mcp-procurement?style=social&color=white)](https://github.com/zavora-ai/mcp-procurement/stargazers)  
     *AI-powered procurement engine providing 37 MCP tools across the entire source-to-pay lifecycle.* Equips autonomous AI agents with capabilities for supplier onboarding, RFQ generation, purchase order approval gates, contract tracking, 3-way matching, carbon footprint scoring, price benchmarking, and maverick spend detection. MIT licensed.
 
-15. **[VendSync (BidFlow)](https://github.com/RavalMunjal/VendSync)** [![GitHub stars](https://img.shields.io/github/stars/RavalMunjal/VendSync?style=social&color=white)](https://github.com/RavalMunjal/VendSync/stargazers)  
+15. **[VendSync (BidFlow)](https://github.com/RavalMunjal/VendSync)** [![GitHub_Stars](https://img.shields.io/github/stars/RavalMunjal/VendSync?style=social&color=white)](https://github.com/RavalMunjal/VendSync/stargazers)  
     *Full-stack Procurement & Vendor Management ERP built on React, Node.js, and MongoDB.* Covers end-to-end purchasing from RFQ creation to invoice generation, featuring role-based access control, a dedicated vendor self-service portal, side-by-side quotation comparison with lowest-price highlighting, and PDF generation. MIT licensed.
 
-16. **[OpenTradeIntel](https://github.com/b2baitrade-ui/opentradeintel)** [![GitHub stars](https://img.shields.io/github/stars/b2baitrade-ui/opentradeintel?style=social&color=white)](https://github.com/b2baitrade-ui/opentradeintel/stargazers)  
+16. **[OpenTradeIntel](https://github.com/b2baitrade-ui/opentradeintel)** [![GitHub_Stars](https://img.shields.io/github/stars/b2baitrade-ui/opentradeintel?style=social&color=white)](https://github.com/b2baitrade-ui/opentradeintel/stargazers)  
     *B2B sourcing intelligence and public procurement notice discovery engine.* Ingests public tenders from the European TED Search API, normalizes notice schemas, and calculates deterministic matching scores (0–100) against internal supplier product catalogs; includes CLI and MCP interfaces. MIT licensed.
 
-17. **[aribaiq](https://github.com/jvasanthada/aribaiq)** [![GitHub stars](https://img.shields.io/github/stars/jvasanthada/aribaiq?style=social&color=white)](https://github.com/jvasanthada/aribaiq/stargazers)  
+17. **[aribaiq](https://github.com/jvasanthada/aribaiq)** [![GitHub_Stars](https://img.shields.io/github/stars/jvasanthada/aribaiq?style=social&color=white)](https://github.com/jvasanthada/aribaiq/stargazers)  
     *Python procurement analytics and supplier intelligence package.* Computes on-time delivery rates, defect rates, spend concentration ratios, and ESG-weighted vendor scores, outputting GenAI prompt templates for LLM-driven negotiation prep. MIT licensed.
 
 ---
@@ -161,7 +161,7 @@ Contributions from procurement leaders, developers, and researchers are warmly w
 2. **Create a descriptive feature branch**: `git checkout -b feature/add-procurement-tool`.
 3. **Add or update an entry** in `README.md` following the established table or open-source list format:
    - For SaaS: include specific starting tier pricing, explicit free tier / trial terms, company scale, and key capabilities.
-   - For Open-Source: include owner/repo link, Shields.io social star badge linking to `/stargazers`, concise description, and license.
+   - For Open-Source: include owner/repo link, Shields.io social Stars_Badge linking to `/stargazers`, concise description, and license.
 4. **Ensure links are valid and active**.
 5. **Submit a Pull Request** with a clear explanation of why the tool belongs in this curated ecosystem.
 
